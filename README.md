@@ -9,10 +9,10 @@ Salesforce の無料で使える開発環境「Developer Edition」
 
 
 # Login
-アプリケーションを作成し、TableauCRMで作成したダッシュボードを埋め込んでいます。ログイン後に当該ページが開くように設定しています。
+アプリケーションを作成し、TableauCRMで作成したダッシュボードを埋め込んでいます
 
 ログイン頂くと当該ページをご確認いただけます。
-以下ユーザでログインが可能です。初回ログイン時の確認メールが飛ばないよう設定しています。
+初回ログイン時の確認メールが飛ばないよう設定しています。
 
 |  項目  |  詳細  |
 | ---- | ---- |
@@ -20,7 +20,11 @@ Salesforce の無料で使える開発環境「Developer Edition」
 |  PASS  |  a1234567  |
 |  URL  |  https://login.salesforce.com/  |
 
-# データフロー
-データフローを用いてデータを一部加工しています。
 
-![](https://drive.google.com/file/d/1y1y3xKtttB256ReVv8bA96v9TVv24rOZ/view?usp=sharing.png)
+
+# データフロー
+
+データフローを用いてデータを一部加工しています。
+テーブルの結合と項目の生成をしています。
+
+![](https://gyazo.com/a86482d94a1e556f19422682be997132.png)
